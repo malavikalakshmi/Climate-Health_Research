@@ -1,5 +1,5 @@
 # Climate-Health_Research
-|||||||||||||||||||||||||||||||||||||||||||
+
 #Regression-health(Esther&Nancy)
 In this documentation, we are focusing on three questions: 
   1. "Mortality from total cardiovascular diseases"
@@ -43,4 +43,4 @@ We splitted data into training and testing, and used the accuracy to measure the
       2. Random Forest: 90.85%
       3. Gradient Boosting Tree: 89.40%
       
-|||||||||||||||||||||||||||||||||||||||||||
+
